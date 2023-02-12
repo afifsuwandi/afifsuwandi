@@ -1,4 +1,4 @@
-<h1>Hi, I'm Afif! <br/><a href="https://github.com/afifsuwandi">Data Engineer</a>
+<h1>Hi, I'm Afif! </h1>
 
 <h2>👨‍💻 Data Engineer Projects:</h2>
 
