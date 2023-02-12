@@ -1,6 +1,8 @@
 ## Hello there 👋
 
-I'm [Muhammad Afif](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+I'm Muhammad Afif, a passionate self-taught data engineer and strive to equip myself with new knowledge every day. Coming from mechanical engineer background didn't stop me from pursuing my passion in Big Data and cloud technology. It all started when I got retrenched during Covid and Big Data, blockchain, cloud techhnology become such a big phenomenal during that period. I am still new in this space but I believe anyone can be whatever they want as long as they have the passion and give 100% whatever they do. I ended up exploring and doing practical stuff to familarize myself with all sorts of tool and I don't plan to stop learning. 
+
+Every day is an opportunity to learn more. Feel free to connect with me and I open to discussion with hands-on projects I have done.
 
 <h3>👨‍💻 Data Engineer Projects:</h3>
 
