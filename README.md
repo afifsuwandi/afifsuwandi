@@ -14,7 +14,7 @@ I'm always eager to learn more and grow as a data engineer. If you're looking fo
   - [Building Data Platform for SoftCart’s Retailer Data Analytics](https://github.com/joshmadakor1/Sentinel-Lab)
   - [ELT with Azure Data Factory and Mapping Data Flows for WideWorldImposter (WWI) company](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
-<h3>📺 Certificates</h3>
+<h3>📝 Certificates</h3>
 
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/c8edf690-ff72-46f4-a64b-af428aa303d9/public_url)
 - [Databricks Lakehouse Fundamentals](https://credentials.databricks.com/23dae97c-53b2-405a-a1c9-e89e8e9978dd)
