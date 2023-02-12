@@ -20,7 +20,7 @@
 
 <h2>📺 Certificates</h2>
 
-- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/earner/earned/badge/c8edf690-ff72-46f4-a64b-af428aa303d9)
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/c8edf690-ff72-46f4-a64b-af428aa303d9/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
