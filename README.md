@@ -32,7 +32,7 @@
   <img align="left" alt="Afif | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=afif%2Fgithub-visitor-badge&label=Visitors&labelColor=%232ccce4&countColor=%23263759&style=plastic)](https://visitorbadge.io/status?path=afif%2Fgithub-visitor-badge)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
