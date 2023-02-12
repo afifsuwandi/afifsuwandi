@@ -4,13 +4,11 @@
 
 - <b>Apache Spark </b>
   - [Twitter Sentiment Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Warehousing</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>Data Warehouse</b>
+  - [Design Solid Waste Management Company Data Warehouse (https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Microsoft Azure</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Building Data Platform for SoftCart’s Retailer Data Analytics](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [ELT with Azure Data Factory and Mapping Data Flows for WideWorldImposter (WWI) company](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
 <h2>📺 Certificates</h2>
 
