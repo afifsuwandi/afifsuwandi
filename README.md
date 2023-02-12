@@ -28,8 +28,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="MuhammadAfif | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 <a href="https://www.linkedin.com/in/afifsuwandi/">
+  <img align="left" alt="Afif | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
