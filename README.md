@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-<h2>👨‍💻 Data Engineer Projects:</h2>
+<h3>👨‍💻 Data Engineer Projects:</h3>
 
 - <b>Apache Spark </b>
   - [Twitter Sentiment Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -10,13 +10,19 @@
   - [Building Data Platform for SoftCart’s Retailer Data Analytics](https://github.com/joshmadakor1/Sentinel-Lab)
   - [ELT with Azure Data Factory and Mapping Data Flows for WideWorldImposter (WWI) company](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
-<h2>📺 Certificates</h2>
+<h3>📺 Certificates</h3>
 
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/c8edf690-ff72-46f4-a64b-af428aa303d9/public_url)
 - [Databricks Lakehouse Fundamentals](https://credentials.databricks.com/23dae97c-53b2-405a-a1c9-e89e8e9978dd)
 - [Data Engineering Professional Certificate](https://www.credly.com/badges/a251e6f6-9128-4dca-abea-02f09ee21397/public_url)
 
-<h2> 🤳 Connect with me:</h2>
+<h3 align="left">Languages and Tools:</h3>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+
+<h3> 🤳 Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/afifsuwandi/">
   <img align="left" alt="Afif | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
