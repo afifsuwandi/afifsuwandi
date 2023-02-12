@@ -5,7 +5,7 @@
 - <b>Apache Spark </b>
   - [Twitter Sentiment Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Data Warehouse</b>
-  - [Design Solid Waste Management Company Data Warehouse (https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Design Solid Waste Management Company Data Warehouse] (https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Microsoft Azure</b>
   - [Building Data Platform for SoftCart’s Retailer Data Analytics](https://github.com/joshmadakor1/Sentinel-Lab)
   - [ELT with Azure Data Factory and Mapping Data Flows for WideWorldImposter (WWI) company](https://github.com/joshmadakor1/Jwipe.PowerShell)
