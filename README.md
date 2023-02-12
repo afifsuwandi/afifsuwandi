@@ -1,8 +1,8 @@
 ## Hello there 👋
 
-I'm Muhammad Afif, a passionate self-taught data engineer and strive to equip myself with new knowledge every day. Coming from mechanical engineer background didn't stop me from pursuing my passion in Big Data and cloud technology. It all started when I got retrenched during Covid and Big Data, blockchain, cloud techhnology become such a big phenomenal during that period. I am still new in this space but I believe anyone can be whatever they want as long as they have the passion and give 100% whatever they do. I ended up exploring and doing practical stuff to familarize myself with all sorts of tool and I don't plan to stop learning. 
+Hi there! I'm Muhammad Afif, a driven and self-taught data engineer with a passion for continually expanding my knowledge. Despite starting my career in mechanical engineering, I was inspired to dive into the exciting world of Big Data and cloud technology, especially during the height of the Covid-19 pandemic. I believe that with hard work and dedication, anyone can achieve their goals and pursue their passions. That's why I've dedicated myself to exploring and gaining practical experience with a wide range of tools and technologies in this field.
 
-Every day is an opportunity to learn more. Feel free to connect with me and I open to discussion with hands-on projects I have done.
+I'm always eager to learn more and grow as a data engineer. If you're looking for someone who is dedicated, hands-on, and always striving to improve, feel free to connect with me. I'd love to chat about the projects I've worked on and how I can bring my skills and expertise to your organization.
 
 <h3>👨‍💻 Data Engineer Projects:</h3>
 
