@@ -14,18 +14,25 @@ I'm always eager to learn more and grow as a data engineer. If you're looking fo
   - [Building Data Platform for SoftCart’s Retailer Data Analytics](https://github.com/joshmadakor1/Sentinel-Lab)
   - [ELT with Azure Data Factory and Mapping Data Flows for WideWorldImposter (WWI) company](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
-<h3>📝 Certificates</h3>
+<h3>:medal_sports: Certificates</h3>
 
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/c8edf690-ff72-46f4-a64b-af428aa303d9/public_url)
 - [Databricks Lakehouse Fundamentals](https://credentials.databricks.com/23dae97c-53b2-405a-a1c9-e89e8e9978dd)
-- [Data Engineering Professional Certificate](https://www.credly.com/badges/a251e6f6-9128-4dca-abea-02f09ee21397/public_url)
+- [IBM Data Engineering Professional Certificate](https://www.credly.com/badges/a251e6f6-9128-4dca-abea-02f09ee21397/public_url)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3> :wrench: Languages and Tools:</h3>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" width="40px" height="40px"></a>
+<a href="https://www.python.org" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30px" height="30px"></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30px" height="30px"></a>
+<a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30px" height="30px"></a>
+<a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="30px" height="30px"></a>
+<a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" width="30px" height="30px"></a>
+<a href="https://www.databricks.com/" title="Databricks"><img src="https://github.com/Holydarkz/reference/blob/main/databricks.svg" alt="Databricks" width="30px" height="30px"></a>
+<a href="https://airflow.apache.org/" title="AirFlow"><img src="https://github.com/Holydarkz/reference/blob/main/airflow-svgrepo-com.svg" alt="AirFlow" width="30px" height="30px"></a>
+<a href="https://spark.apache.org/" title="Apache Spark"><img src="https://github.com/Holydarkz/reference/blob/main/Apache_Spark.svg" alt="Apache Spark" width="30px" height="30px"></a>
+
+
+
 
 <h3> 🤳 Connect with me:</h3>
 
