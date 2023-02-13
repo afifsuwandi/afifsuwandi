@@ -13,7 +13,6 @@ I'm always eager to learn more and grow as a data engineer. If you're looking fo
 - <b>Data Platform</b>
   - [Building Data Platform for SoftCart’s Retailer Data Analytics](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Microsoft Azure</b>
-  - [Building Data Platform for SoftCart’s Retailer Data Analytics](https://github.com/joshmadakor1/Sentinel-Lab)
   - [ELT with Azure Data Factory and Mapping Data Flows for WideWorldImposter (WWI) company](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Movie Recommendation using Databricks and Azure Data Factory](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
