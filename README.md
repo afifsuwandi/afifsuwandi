@@ -7,7 +7,7 @@ I'm always eager to learn more and grow as a data engineer. If you're looking fo
 <h3>👨‍💻 Data Engineer Projects:</h3>
 
 - <b>Apache Spark </b>
-  - [Twitter Sentiment Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Twitter Sentiment Analysis](https://github.com/afifsuwandi/TwitterSentimentAnalysis)
 - <b>Data Warehouse</b>
   - [Design Solid Waste Management Company Data Warehouse](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Microsoft Azure</b>
