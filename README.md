@@ -9,12 +9,12 @@ I'm always eager to learn more and grow as a data engineer. If you're looking fo
 - <b>Apache Spark </b>
   - [Twitter Sentiment Analysis](https://github.com/afifsuwandi/TwitterSentimentAnalysis)
 - <b>Data Warehouse</b>
-  - [Design Solid Waste Management Company Data Warehouse](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Design Solid Waste Management Company Data Warehouse](https://github.com/afifsuwandi/solidwaste_datawarehouse)
 - <b>Data Platform</b>
-  - [Building Data Platform for SoftCart’s Retailer Data Analytics](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Building Data Platform for SoftCart’s Retailer Data Analytics](https://github.com/afifsuwandi/softcartretailer_dataplatform)
 - <b>Microsoft Azure</b>
-  - [ELT with Azure Data Factory and Mapping Data Flows for WideWorldImposter (WWI) company](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Movie Recommendation using Databricks and Azure Data Factory](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [ELT with Azure Data Factory and Mapping Data Flows for WideWorldImposter (WWI) company](https://github.com/afifsuwandi/ELT_ADF)
+  - [Movie Recommendation using Databricks and Azure Data Factory](https://github.com/afifsuwandi/movie_recommendation_ADF_databricks)
 
 <h3>:medal_sports: Certificates</h3>
 
