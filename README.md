@@ -10,9 +10,12 @@ I'm always eager to learn more and grow as a data engineer. If you're looking fo
   - [Twitter Sentiment Analysis](https://github.com/afifsuwandi/TwitterSentimentAnalysis)
 - <b>Data Warehouse</b>
   - [Design Solid Waste Management Company Data Warehouse](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>Data Platform</b>
+  - [Building Data Platform for SoftCart’s Retailer Data Analytics](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Microsoft Azure</b>
   - [Building Data Platform for SoftCart’s Retailer Data Analytics](https://github.com/joshmadakor1/Sentinel-Lab)
   - [ELT with Azure Data Factory and Mapping Data Flows for WideWorldImposter (WWI) company](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Movie Recommendation using Databricks and Azure Data Factory](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
 <h3>:medal_sports: Certificates</h3>
 
